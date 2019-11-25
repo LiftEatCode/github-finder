@@ -29,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/LiftEatCode/github-finder.git",
+  "author": "Josh Spradling <jwspradling@gmail.com>",
+  "license": "MIT"
 }
